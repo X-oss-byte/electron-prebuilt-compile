@@ -1805,7 +1805,7 @@ electron-compile@*:
 electron-compilers@*:
   version "5.9.0"
   resolved "https://registry.yarnpkg.com/electron-compilers/-/electron-compilers-5.9.0.tgz#953dc14e24fb15b37d5e90de2c39d753f3f8140e"
-  integrity sha1-lT3BTiT7FbN9XpDeLDnXU/P4FA4=
+  integrity sha512-rY2Agw9GJKp9/BEK03HGhwLg+/ROPXue3MTgmvqtnz4Y3lgafpggvd/Y+TH/U8nER98gggPJhAVYvnWDOYepjQ==
   dependencies:
     "@paulcbetts/mime-types" "^2.1.10"
     "@paulcbetts/vueify" "9.4.3"
